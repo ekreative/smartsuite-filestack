@@ -73,7 +73,7 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
 
-                groupId = 'com.github.boykod'
+                groupId = 'com.github.ekreative'
                 artifactId = 'smartsuite-filestack'
                 version = '0.1.6-beta03'
             }
